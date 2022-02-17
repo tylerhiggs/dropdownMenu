@@ -4,7 +4,7 @@
 
 ![sub-menu](submenu.png)
 
-This is a dropdown menu with help from [this](https://www.youtube.com/watch?v=IF6k0uZuypA) video
+This is a dropdown menu with help from [this](https://www.youtube.com/watch?v=IF6k0uZuypA) video and the Facebook dropdown menu
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
