@@ -1,5 +1,9 @@
 # Dropdown Menu
 
+![menu](menu.png)
+
+![sub-menu](submenu.png)
+
 This is a dropdown menu with help from [this](https://www.youtube.com/watch?v=IF6k0uZuypA) video
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
